@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/play_mode_mShuffle"
+        android:icon="@drawable/action_exit"
+        android:orderInCategory="80"
+        android:title="@string/app_exit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/play_mode_mShuffle_enable"
+        android:icon="@drawable/action_exit"
+        android:orderInCategory="80"
+        android:title="@string/app_exit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/play_mode_mRepeat"
+        android:icon="@drawable/action_exit"
+        android:orderInCategory="80"
+        android:title="@string/app_exit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/play_mode_mRepeat_enable"
+        android:icon="@drawable/action_exit"
+        android:orderInCategory="80"
+        android:title="@string/app_exit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/play_mode_mOneShot"
+        android:icon="@drawable/action_exit"
+        android:orderInCategory="80"
+        android:title="@string/app_exit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/play_mode_mOneShot_enable"
+        android:icon="@drawable/action_exit"
+        android:orderInCategory="80"
+        android:title="@string/app_exit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_exit"
+        android:icon="@drawable/action_exit"
+        android:orderInCategory="80"
+        android:title="@string/app_exit"
+        app:showAsAction="never" />
+
+</menu>
